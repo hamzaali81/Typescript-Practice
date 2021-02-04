@@ -1,0 +1,21 @@
+{
+  "name": "Typescript-in-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/faker": "^5.1.6",
+    "@types/googlemaps": "^3.43.2",
+    "axios": "^0.21.1",
+    "faker": "^5.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
