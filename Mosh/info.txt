@@ -1,0 +1,3 @@
+tsc --init
+tsc -w 0r tsc --watch
+excluded ignore compile files
